@@ -17,11 +17,13 @@
 #### [1. Анализ клиентской базы банка с помощью Pandas](https://github.com/AnalysisAn/Bank_customers_pandas_analysis)
 
 Учебный EDA-проект, в котором исследуется клиентская база банка: распределение клиентов по странам и возрасту, активность пользователей, баланс и количество используемых банковских продуктов.
+
 **Инструменты:** Python, Pandas, Matplotlib, Jupyter Notebook
 
 #### [2. Парсинг страницы и анализ данных](https://github.com/AnalysisAn/BeautifulSoup_quotes_parser)
 
 Учебный проект по базовому анализы данных, полученных при парсинге HTML-страницы с помощью BeautifulSoup.
+
 **Инструменты:** requests, BeautifulSoup, Python, Pandas
 
 ### Образование и самообучение
