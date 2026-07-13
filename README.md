@@ -21,13 +21,19 @@
 
 ***Инструменты:*** Python, Pandas, Matplotlib, Jupyter Notebook
 
-#### [2. Парсинг страницы и анализ данных](https://github.com/AnalysisAn/BeautifulSoup_quotes_parser)
+#### [2.Анализ данных онлайн-магазина косметики](https://github.com/AnalysisAn/Cosmetics_shop_sql_analysis)
+
+Проект по исследованию данных онлайн-магазина косметики при помощи SQL и Tableau: изучение активности пользователей, динамики событий, покупки, выручку и поведение пользователей на разных этапах воронки.
+
+***Инструменты:*** PostgreSQL, DBeaver, Tableau
+
+#### [3. Парсинг страницы и анализ данных](https://github.com/AnalysisAn/BeautifulSoup_quotes_parser)
 
 Учебный проект по базовому анализу данных, полученных при парсинге HTML-страницы с помощью BeautifulSoup.
 
 ***Инструменты:*** requests, BeautifulSoup, Python, Pandas
 
-#### [3. Анализ рекламных событий](https://github.com/AnalysisAn/Ads_events_analysis)
+#### [4. Анализ рекламных событий](https://github.com/AnalysisAn/Ads_events_analysis)
 
 Учебный проект по анализу логов рекламных событий, выявлению причин аномального роста количества взаимодействий в один из дней, дополнительному исследованию данных и применению BI-системы для визуализации результатов анализа.
 
